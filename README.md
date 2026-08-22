@@ -136,6 +136,6 @@ git init
 git add .
 git commit -m "feat: criação da API Connect"
 git branch -M main
-git remote add origin https://github.com/SEU-USUARIO/api-connect-seu-nome-sobrenome.git
+git remote add origin https://github.com/leonogueira97/api-connect
 git push -u origin main
 ```
